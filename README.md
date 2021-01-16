@@ -14,8 +14,6 @@
 
 - *getting_started*
   - 第10章「入門」
-- *basic_query_on_array*
-  - 第11章「配列に対する基本クエリ」
 - coming soon...
 
 ## 最終更新日
